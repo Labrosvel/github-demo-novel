@@ -5,4 +5,4 @@ Chapter 1:
 - Add some other characters
 
 Chapter 2:
-- This is my ending
+- This is my ending.
